@@ -71,7 +71,7 @@ Hello class/prof
 
 ---
 <!-- Replace the src with your own asset path inside the repo -->
-<img src="assets/NHL-logo.png" alt="NHL Logo" width="220" />
+<img src="assets/NHL-Logo.png" alt="NHL Logo" width="220" />
 
 ---
 
